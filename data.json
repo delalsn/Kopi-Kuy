@@ -1,0 +1,71 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000",
+            "link": "https://www.google.com/search?q=cappuccino+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000",
+            "link": "https://www.google.com/search?q=pahit+arabica&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+arabica&tbm=shop"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "80.000",
+            "link": "https://www.google.com/search?q=kopi+susu+robusta&tbm=shop"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000",
+            "link": "https://www.google.com/search?q=latte+robusta&tbm=shop"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://img.freepik.com/free-photo/top-view-set-ice-cream-cones-with-chocolate_23-2148425392.jpg",
+            "nama": "Ice Cream",
+            "size": "100 Gram",
+            "harga": "10.000",
+            "link": "https://www.google.com/search?q=ice+cream+cone&tbm=shop"
+        },
+        {
+            "nama": "French Fries",
+            "size": "500 gram",
+            "harga": "10.000",
+            "link": "#https://sajiansedap.grid.id/read/103680206/3-trik-membuat-kentang-goreng-tetap-renyah-walau-sudah-dingin-jadi-malas-jajan-kalau-pakai-cara-ini?page=all",
+            "foto": "https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2023/02/04/cara-membuat-kentang-goreng-reny-20230204071836.jpg"
+        },
+        {
+            "nama": "Spageti",
+            "size": "400 gram",
+            "harga": "22.000",
+            "link": "#https://www.dapurkobe.co.id/spaghetti-poll-pedas",
+            "foto": "https://www.dapurkobe.co.id/wp-content/uploads/spaghetti-poll-pedas.jpg"
+        },
+        {
+            "nama": "Dimsum",
+            "size": "500 gram",
+            "harga": "18.000",
+            "link": "#https://www.fimela.com/food/read/4929506/11-resep-dimsum-kukus-hemat-minyak-yang-enak-untuk-buka-puasa",
+            "foto": "https://cdn1-production-images-kly.akamaized.net/hNP_mNmLwHtnaQ1keRDCUmaWnpc=/1360x766/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3984313/original/076302800_1649060799-shutterstock_441551332.jpg"
+        }
+    ]
+}
